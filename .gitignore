@@ -100,5 +100,7 @@ ENV/
 # mypy
 .mypy_cache/
 
-#REPL
+# Environment
 .python-history
+.vscode
+core
